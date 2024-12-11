@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Spanish Practice Tool is a web application designed to help users practice their Spanish speaking skills. Learning languages has shown to be suboptimal with traditional methods, as memorizing grammar and vocabulary rules may not translate effectively to conversation. The goal of this project is to aid speaking and listening through simulating conversation, providing a fun and educational experience. 
+The Spanish Practice Tool is a web application designed to help users practice their Spanish speaking skills with the help of LLM agents. Learning languages has shown to be suboptimal with traditional methods, as memorizing grammar and vocabulary rules may not translate effectively to conversation. The goal of this project is to aid speaking and listening through simulating conversation, providing a fun and educational experience. 
 
 The tool is currently in progress with main functionalities in place. 
 
