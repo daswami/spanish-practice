@@ -70,5 +70,4 @@ The tool is currently in progress with main functionalities in place.
 
 ## Acknowledgments
 
-- Thanks to Google for providing the Generative AI API.
-- Special thanks to the open-source community for their contributions and support.
+- Thanks to Google for providing the Gemini 1.5 Flash API
