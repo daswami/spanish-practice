@@ -2,20 +2,26 @@
 
 ## Overview
 
-The Spanish Practice Tool is a web application designed to help users practice their Spanish speaking skills through speech recognition and interaction with a generative AI model. Users can record their speech, receive transcriptions, and get responses from the AI, all while improving their language skills.
+The Spanish Practice Tool is a web application designed to help users practice their Spanish speaking skills. Learning languages has shown to be suboptimal with traditional methods, as memorizing grammar and vocabulary rules may not translate effectively to conversation. The goal of this project is to aid speaking and listening through simulating conversation, providing a fun and educational experience. 
+
+The tool is currently in progress with main functionalities in place. 
 
 ## Features
 
 - **Speech Recognition**: Users can speak in Spanish, and their speech will be transcribed in real-time.
 - **AI Interaction**: The application interacts with the Google Generative AI to provide responses based on user input.
-- **User-Friendly Interface**: A clean and responsive design that works well on both desktop and mobile devices.
+- **User-Friendly Interface**: A simple and clean interface for easy use. 
 
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, SpeechSynthesis API
 - **AI Integration**: Google Generative AI
-- **Environment Variables**: dotenv for managing API keys
+
+## Future Improvements
+- Utilize React/TypeScript for the frontend, transforming the code into production style frameworks
+- Incorporate LLM technologies to improve the accuracy of the LLM
+- Provide levels of language and learning insights to produce a more tailored educational experience
 
 ## Getting Started
 
@@ -61,14 +67,6 @@ The Spanish Practice Tool is a web application designed to help users practice t
 - Click "Stop" to end the recording.
 - Click "Send" to send your transcription to the AI and receive a response.
 - You can reset the conversation at any time using the "Reset" button.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
