@@ -20,7 +20,7 @@ The tool is currently in progress with main functionalities in place.
 
 ## Future Improvements
 - Utilize React/TypeScript for the frontend, transforming the code into production style frameworks
-- Incorporate LLM technologies to improve the accuracy of the LLM
+- Incorporate LLM techniques to improve accuracy and robustness
 - Provide levels of language and learning insights to produce a more tailored educational experience
 
 ## Getting Started
