@@ -1,4 +1,4 @@
-# Spanish Practice Tool
+# Spanish LLM-Based Practice Tool 
 
 ## Overview
 
